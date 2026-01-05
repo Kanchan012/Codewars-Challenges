@@ -1,3 +1,4 @@
+# 1. Remove Duplicates
 def duplicates(arr)
   arr.uniq
 end

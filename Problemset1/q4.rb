@@ -1,3 +1,4 @@
+# Sum Array
 def sum_array(arr)
   arr.sum
 end
